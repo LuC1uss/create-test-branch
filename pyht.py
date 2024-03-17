@@ -1,1 +1,1 @@
-print('Main5 &&')
+print('JOJO Bizarre Adventure')
